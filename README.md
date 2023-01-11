@@ -35,4 +35,6 @@ Dieses Recap Projekt (2D, Top-Down) inkludiert die Wiederholung folgender Punkte
 
 *Entwicklungsplattform:*
 
-Unity 2020.3.18f Windows 10 Visual Studio 2019
+- Unity 2020.3.18f 
+- macOS Monterey 
+- Visual Studio Version 17.0.3
