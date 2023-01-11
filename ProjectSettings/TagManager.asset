@@ -11,6 +11,7 @@ TagManager:
   - Collectible2
   - Collectible3
   - Collectible4
+  - Present
   layers:
   - Default
   - TransparentFX
@@ -77,4 +78,7 @@ TagManager:
     locked: 0
   - name: Text
     uniqueID: 3320487877
+    locked: 0
+  - name: Final Present
+    uniqueID: 1156016187
     locked: 0
