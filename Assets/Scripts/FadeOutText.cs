@@ -4,17 +4,16 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class FadeOut : MonoBehaviour
+public class FadeOutText : MonoBehaviour
 {
 
 
+    [SerializeField] private TextMeshProUGUI text;
 
-    [SerializeField] private SpriteRenderer Line;
-   
     Color color;
     void Start()
     {
-        color = Line.color;
+        color = text.color;
     }
 
     // Update is called once per frame
@@ -23,9 +22,8 @@ public class FadeOut : MonoBehaviour
         if (color.a > 0)
         {
             color.a -= Time.deltaTime / 5;
-            Line.color = color;
+            text.color = color;
         }
 
     }
-
 }

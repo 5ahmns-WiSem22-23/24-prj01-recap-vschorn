@@ -68,7 +68,7 @@ public class ItemCollector : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Collectible1"))
         {
-            Destroy(FISH);
+            FISH.SetActive(false);
             FISH1.SetActive(true);
             FishText.text = "Fish Counter: 1 / 1";
             Fishinsgesamt.text = "Fish collected: 2 / 5";
