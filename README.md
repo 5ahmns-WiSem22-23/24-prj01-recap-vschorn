@@ -11,7 +11,7 @@ _______________________
 Im Winter ist es ziemlich kalt, vor allem zu Weihnachten. Pusheen Cat ist daher lieber in ihrer gemütlichen Stube und genießt das warme Feuer im Kamin.
 Doch irgendwie hat sie ihre Lebkuchen verlegt und findet sie nicht mehr. Ihr Magen knurrt bereits vor Hunger. 
 
-Hilf Pusheen Cat ihre Lebkuchen wieder einzusammeln, um ihr einen schönen Abendschmaus zu ermöglichen!
+Hilf Pusheen Cat ihre Lebkuchen wieder einzusammeln und in die Holzbox zu legen, um ihr einen schönen Abendschmaus zu ermöglichen!
 
 _______________________
 
@@ -25,6 +25,8 @@ _______________________
  6. Hindernisse
  7. END Item (wenn alle Fische gesammelt wurden)
  8. Win Scene (mit inkl. Quit Button)
+ 9. Background Musik - (Start & Endscene haben selbe Musik, Game Scene hat andere Musik)
+ 10. Sound Effects, wenn Fisch aufgehoben wird + Box berührt wird
 
 
 
