@@ -2,7 +2,7 @@
 made by Victoria Schorn
 
 
-Ein weihnachtliches 2D Top Down Game mit süßen Grafiken und netten Spielkonzept.
+Ein weihnachtliches 2D Top Down Game mit süßen Grafiken und nettem Spielkonzept.
 
 _______________________
 
